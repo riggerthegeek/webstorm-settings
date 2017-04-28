@@ -9,7 +9,6 @@
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
