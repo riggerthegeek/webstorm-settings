@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".compilerc" type="JSON" />
+      <mapping pattern="500786e744ee21a5186a0cc09e54205ecf0d0277" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
