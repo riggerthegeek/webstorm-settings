@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.esc.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,6 +21,10 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.ejs</mask>
+      <mask>*.esjs</mask>
+      <mask>*.escjs</mask>
+      <mask>*.esc.js</mask>
     </recentFileMasks>
   </component>
 </application>
