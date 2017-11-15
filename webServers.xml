@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9cb07ced-2fb0-4282-9636-168212ac51e3" name="homelab" url="http://192.168.0.19">
+        <fileTransfer host="192.168.0.19" port="22" privateKey="$USER_HOME$/Dropbox/Key Pairs/homelab" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
