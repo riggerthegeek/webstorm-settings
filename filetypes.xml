@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="armhf" type="Dockerfile" />
       <mapping pattern=".compilerc" type="JSON" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-support" type="PLAIN_TEXT" />
