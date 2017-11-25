@@ -5,6 +5,7 @@
       <mapping pattern=".compilerc" type="JSON" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="jenkins-support" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
