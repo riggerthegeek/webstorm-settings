@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="arm" type="Dockerfile" />
       <mapping ext="armhf" type="Dockerfile" />
       <mapping pattern=".compilerc" type="JSON" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
