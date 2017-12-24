@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="JS Debug">
+      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;57:1;48:1;59:0">console.log();</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
+    <macro name="JS Exit">
+      <typing text-keycode="80:0;82:0;79:0;67:0;69:0;83:0;83:0;46:0;69:0;88:0;73:0;84:0;57:1;48:1;59:0">process.exit();</typing>
+    </macro>
+  </component>
+</application>
