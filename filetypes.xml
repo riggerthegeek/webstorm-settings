@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping ext="linux" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".compilerc" type="JSON" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
