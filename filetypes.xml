@@ -2,10 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern=".compilerc" type="JSON" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="arm" type="PLAIN_TEXT" />
     </extensionMap>
