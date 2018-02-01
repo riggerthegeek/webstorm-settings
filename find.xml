@@ -2,31 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>D</mask>
-      <mask>Doc</mask>
-      <mask>Docker</mask>
-      <mask>Dockerfil</mask>
-      <mask>Dockerfile</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ejs</mask>
-      <mask>*.esjs</mask>
-      <mask>*.escjs</mask>
-      <mask>*.esc.js</mask>
-      <mask>*..js</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
   </component>
 </application>
