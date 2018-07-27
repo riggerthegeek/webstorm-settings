@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin copy 1" parent="Default for XWin">
+  <action id="Macro.JS Debug">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Macro.JS Exit">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+</keymap>
