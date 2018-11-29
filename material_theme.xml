@@ -1,11 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
+    <option name="statusBarTheme" value="false" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="tabOpacity" value="100" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
