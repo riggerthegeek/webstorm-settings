@@ -4,6 +4,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="tocheck" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
